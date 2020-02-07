@@ -6,3 +6,6 @@ function grumpus() {
 
 grumpus()
 
+for (let i = 0; i < 10; i++) {
+    grumpus()
+}
