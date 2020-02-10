@@ -20,6 +20,7 @@ function containsPurple(arr) {
         if(color === 'purple' || color === 'magenta') {
             return true
         }
-        return false
+        
     }
+    return false
 }
